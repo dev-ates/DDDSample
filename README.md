@@ -1,1 +1,1 @@
-# DDDSample
+# Domain Driven Design Example
